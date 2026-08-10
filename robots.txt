@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: bitkoin-kazino-na-russkom-yazyke.github.io
+Sitemap: https://bitkoin-kazino-na-russkom-yazyke.github.io/sitemap.xml
